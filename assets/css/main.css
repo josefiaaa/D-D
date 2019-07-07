@@ -2120,6 +2120,8 @@ input, select, textarea {
 						#main > .panel.intro header {
 							padding: 4em;
 							text-align: center;
+							height: 240px;
+
 						}
 
 				}
@@ -2137,6 +2139,7 @@ input, select, textarea {
 						#main > .panel.intro header p {
 							font-size: 1em;
 							margin: 0.25em 0 0 0;
+							height: 240px;
 						}
 
 				}
